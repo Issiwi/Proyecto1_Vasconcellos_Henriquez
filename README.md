@@ -31,5 +31,11 @@ El código se ha desarrollado en Python y requiere las siguientes bibliotecas:
 3. Colocar los archivos de datos (books_data.xlsx y Books_rating.xlsx) en la misma carpeta que el código.
 4. Ejecutar el código en un entorno Python (por ejemplo, Jupyter Notebook) para obtener recomendaciones y visualizar los resultados.
 
+## Aviso sobre los Dataframes
+
+Los dataframes presentes en este repositorio son versiones filtradas de los originales debido a las limitaciones de tamaño impuestas por GitHub. La plataforma no permite subir archivos de gran peso, por lo que se ha tomado la decisión de incluir únicamente una muestra o subconjunto de los datos originales.
+
+Estas versiones filtradas se han utilizado con el propósito de demostración y ejemplificación, pero es posible que no representen el conjunto completo de datos utilizado en el desarrollo del proyecto. Si deseas acceder a los datos originales o trabajar con un conjunto de datos completo, puedes contactarnos para obtener más información.
+
 
 
